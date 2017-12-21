@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ajin\Source\Ajin\Ajin\obj\Debug\Ajin.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ajin\Source\Ajin\Ajin\obj\Debug\Ajin.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ajin\Assemblies\Ajin.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ajin\Source\Ajin\Ajin\obj\Debug\Ajin.dll

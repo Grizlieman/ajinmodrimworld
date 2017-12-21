@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Ajin - Demi Human</name>
+  <author>Grumpy ol' Asian</author>
+  <url></url>
+  <targetVersion>0.18.0</targetVersion>
+  <description>
+    Adds Ajin to RimWorld.
+
+		Adds Ajin from Ajin Demi Human to RimWorld.
+		Features: -Resurrection w/ Regeneration
+				  -Black Ghosts
+				  
+		REQUIRES JECSTOOLS TO PLAY
+  </description>
+</ModMetaData>
